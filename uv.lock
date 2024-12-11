@@ -12,7 +12,7 @@ wheels = [
 
 [[package]]
 name = "algo"
-version = "0.1.dev0+d20241210"
+version = "0.1.dev1+gca4e33a.d20241210"
 source = { editable = "." }
 
 [package.optional-dependencies]

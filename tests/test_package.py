@@ -6,4 +6,4 @@ import algo as m
 
 
 def test_version():
-    assert importlib.metadata.version("algorithms_with_pybind") == m.__version__
+    assert importlib.metadata.version("algo") == m.__version__
